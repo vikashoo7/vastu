@@ -31,7 +31,7 @@ Attribute of 16 Directions
       Doctor
       Healing
 
-4. North East - 
+4. North East (N-E)- water element
     No treatment for N-E
     Attributes
       Mind
@@ -42,7 +42,7 @@ Attribute of 16 Directions
       Mental Stability
       illeness
       
-5. East  Noth East (E-N-E)
+5. East  Noth East (E-N-E) - Air Element
     Attribute
       Fun
       Happiness
@@ -60,7 +60,7 @@ Attribute of 16 Directions
       Government
       Marketing
 
-7. East South East - Air element
+7. East South East (E-S-E)- Air element
     Attributes
       Analysis
       Churning
@@ -68,7 +68,7 @@ Attribute of 16 Directions
       In laws
       Power of Manifestation
 
-8. South East - fire starts from here
+8. South East (S-E) - fire starts from here - Fire element
     Attributes
       Cash
       Liquidity
@@ -77,7 +77,7 @@ Attribute of 16 Directions
       Spark of life
       Speed
       
-9. South South East (S-S-E) - medium fire
+9. South South East (S-S-E) - medium fire - Fire element
     Attributes
       Power
       Fighting
@@ -85,7 +85,7 @@ Attribute of 16 Directions
       Courage
       Authorites
       
-10. South - Final fire
+10. South - Final fire - Fire element
     Attributes
       Fame
       Politician
@@ -93,7 +93,7 @@ Attribute of 16 Directions
       Government High Authorites
       Rising
       
-11. South South West - Earth Element
+11. South South West (S-S-W) - Earth Element
     Attributes
       Artist
       Disposal
@@ -101,7 +101,7 @@ Attribute of 16 Directions
       Expenditure
       Gut
       kalakari
-12. South West - earth elemet 
+12. South West (S-W)- earth elemet 
     Attributes
       Bonding
       love
@@ -111,7 +111,7 @@ Attribute of 16 Directions
       heavy
       problem related to family
       
-13. West South West - space ement
+13. West South West (W-S-W)- space ement
     colour - white
     Attributes
       Education
@@ -131,7 +131,7 @@ Attribute of 16 Directions
       Enlightment
       wish 
       
-15. West North West - space element
+15. West North West (W-N-W)- space element
     Attributes
       Detoxification
       Depression
@@ -140,7 +140,7 @@ Attribute of 16 Directions
       self introspection
       kop bhawan
       
-16. North West - space element
+16. North West (N-W)- space element
     Attributes
       Mood Swings
       Support
@@ -201,3 +201,78 @@ Air -> earth
 Fire -> space
 Earth -> water
 Space -> Air
+
+Charateristic of Element
+------------
+  1. water element
+	Taste Salty
+	Shape Weavy
+	Metal Aluminium
+	Color Blue, Black
+	Attribute
+		Emotional
+		Flow
+		Memory
+		Connection
+		Business
+	Zone -> NNW, N, NNE, NE
+	
+
+
+  2. Air element
+	Taste Sour
+	Shape Rectangular
+	Metal Steel
+	Color Green, Brown
+	Attributes
+		Freshness
+		Network
+		Happiness
+		Growth
+		Churning
+	Zone -> ENE, E, ESE
+
+   3. Fire element
+	Taste Spicy
+	Shape Triangle
+	Metal Copper
+	Color Red
+	Attributes
+		Spark
+		Ignition
+		initiation
+		Giving light
+		Always Straight
+		Fight
+		Clashes
+	Zone -> SE, SSE, S
+	
+
+   4. Earth element
+	taste Sweet
+	Shape  Square
+	Metal Brass
+	Color Yellow, Golden
+	Attributes
+		Stability
+		Solidity
+		Heavy
+		Care
+		Relationships
+		Support
+	Zone -> SSW, SW
+	
+
+   5. Space element
+	taste Bitter
+	Shape  Circular
+	Metal Iron
+	Color white
+	Attributes
+		Manifestation
+		Fulfilment
+		Gains
+		Self awareness
+	Zones -> WSW, W, WNW, NW
+
+
