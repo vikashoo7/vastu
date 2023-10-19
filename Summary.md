@@ -37,10 +37,11 @@
   	Anti color -> 
   	Can be colour (No Vastu) -> 
   	Other Vastu Dosh -> Unnecessary Storage, 
-  			Kitchen -> No Solution
-  			Toilet -> No Solution
-  			Sefttic tank -> No Solution
+  			Kitchen -> Green stone under the stove
+  			Toilet -> Blue tap around the toilet
+  			Sefttic tank -> Blue paint on the seftic tank
   			Storage -> Manage it
+  			Red, Yellow -> remove these color
   	
   	misc
   		under ground water tank is good
@@ -51,12 +52,11 @@
   	Attribute -> Mind Clarity
   	Anti color -> 
   	Can be colour (No Vastu) -> 
-  	Other Vastu Dosh -> Unnecessary Storage, 
-  			Kitchen -> Green stone under the stove
-  			Toilet -> Blue tap around the toilet
-  			Sefttic tank -> Blue paint on the seftic tank
+     	Other Vastu Dosh -> Unnecessary Storage, 
+  			Kitchen -> No Solution
+  			Toilet -> No Solution
+  			Sefttic tank -> No Solution
   			Storage -> Manage it
-  			Red, Yellow -> remove these color
 
   #### East North East (ENE)
   	Element -> Air
